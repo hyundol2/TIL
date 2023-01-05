@@ -47,17 +47,17 @@
 1. 먼저 GitHub에서 원격 저장소를 만들자!
 2. 저장소 링크를 복사한 뒤 다음 명령어 실행
 
-```bash
-git remote add origin <url>
-```
+    ```bash
+    git remote add origin <url>
+    ```
 
-1. 팀원의 저장소를 로컬로 가져올 수도 있음
+3. 팀원의 저장소를 로컬로 가져올 수도 있음
 
-```bash
-git clone <url>
-```
+    ```bash
+    git clone <url>
+    ```
 
-1. 열심히 작업하고 커밋을 통해 버전으로 기록한 뒤 push하거나 팀원이 push한 버전을 pull하며 작업 진행
+4. 열심히 작업하고 커밋을 통해 버전으로 기록한 뒤 push하거나 팀원이 push한 버전을 pull하며 작업 진행
 
 <br/>
 
